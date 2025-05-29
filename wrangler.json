@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "yaks",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "67bd3965-1707-47e7-a090-25d2382aa23a",
+      "database_name": "d1-template"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
